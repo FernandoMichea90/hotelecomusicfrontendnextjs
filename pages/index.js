@@ -7,7 +7,9 @@ export default function Home() {
       <Head>
         <title>Hotel Ecomusic </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="description" content="Reserva en Hotel Ecomusic"   />
+
+        <meta itemprop="description" content="Sleeker than ACME's Classic Anvil, the Executive Anvil is perfect for the business traveler looking for something to drop from a height." />
+
 
         <meta property="og:title" content="Prueba" key="ogtitle" />
 +       <meta property="og:description" content="Pruebados" key="ogdesc" />

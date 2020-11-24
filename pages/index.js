@@ -8,6 +8,9 @@ export default function Home() {
         <title>Hotel Ecomusic </title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Reserva en Hotel Ecomusic"   />
+
+        <meta property="og:title" content="Prueba" key="ogtitle" />
++       <meta property="og:description" content="Pruebados" key="ogdesc" />
       </Head>
 
       <main className={styles.main}>
